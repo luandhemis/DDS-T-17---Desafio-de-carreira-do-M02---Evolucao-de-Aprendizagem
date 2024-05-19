@@ -1,8 +1,6 @@
 # evolucao-de-aprendizagemm
 Repositório referente ao desafio de carreira do M02
 
-# EXEMPLO - Conteúdo modelo no GitHub
-
 ## Conteúdos a serem trabalhados nesse módulo:
 
 - Soft skills
