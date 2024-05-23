@@ -11,7 +11,6 @@ Repositório referente ao desafio de carreira do M02
 - Funções
 - Métodos de Arrays III
 - LinkedIn: primeiros passos
-- Revisão Objetos e Funções
 - Métodos de Arrays II
 - Métodos de Arrays
 
@@ -25,7 +24,6 @@ Repositório referente ao desafio de carreira do M02
 - Funções
 - Métodos de Arrays III
 - LinkedIn: primeiros passos
-- Revisão Objetos e Funções
 - Métodos de Arrays II
 - Métodos de Arrays
 
@@ -40,7 +38,6 @@ Repositório referente ao desafio de carreira do M02
 - Funções
 - Métodos de Arrays III
 - LinkedIn: primeiros passos
-- Revisão Objetos e Funções
 - Métodos de Arrays II
 - Métodos de Arrays
 
@@ -55,6 +52,5 @@ Repositório referente ao desafio de carreira do M02
 - Funções
 - Métodos de Arrays III
 - LinkedIn: primeiros passos
-- Revisão Objetos e Funções
 - Métodos de Arrays II
 - Métodos de Arrays
