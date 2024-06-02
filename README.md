@@ -24,13 +24,13 @@ Repositório referente ao desafio de carreira do M02
 <b>Conteúdo Técnico</b>
 
 <table>
-<tr>Funções</tr><td>Company</td>
-<tr>Tipos de Dados II</tr><td>Company</td>
-<tr>Tipos Utilitários</tr><td>Company</td>
-<tr>Métodos de Arrays</tr><td>Company</td>
-<tr>Métodos de Arrays II</tr><td>Company</td>
-<tr>Métodos de Arrays III</tr><td>Company</td>
-<tr>Métodos de Strings</tr><td>Company</td>
+<tr><td>Funções</td><td>Company</td></tr>
+<tr><td>Tipos de Dados II</td><td>Company</td></tr>
+<tr><td>Tipos Utilitários</td><td>Company</td></tr>
+<tr><td>Métodos de Arrays</td><td>Company</td></tr>
+<tr><td>Métodos de Arrays II</td><td>Company</td></tr>
+<tr><td>Métodos de Arrays III</td><td>Company</td></tr>
+<tr><td>Métodos de Strings</td><td>Company</td></tr>
   
 </table>
 
