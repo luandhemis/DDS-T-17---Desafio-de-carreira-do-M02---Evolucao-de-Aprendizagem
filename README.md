@@ -36,11 +36,15 @@ Havendo vários métodos/formas para diferentes objetivos.</td></tr>
 </table>
 
 <b>Conteúdo Carreira</b>
-
-- Currículo e carta de apresentação
-- Gestão de tempo
-- LinkedIn: primeiros passos
-
+<table>
+<tr><td>Currículo e carta de apresentação</td><td>
+  Sei como criar um currículo básico, com as informações essenciais dependendo da vaga, uma carta de apresentação não sei como criar uma e, confesso, que não vejo numa necessidade
+</td></tr>
+<tr><td>Gestão de tempo</td><td></td></tr>
+  Já utilizei de algumas técnicas: aplicativos de organização, técnica pomodoro e outras técnicas de gestão de tempo, mas nunca encontrei muita eficácia. 
+<tr><td>LinkedIn: primeiros passos</td><td></td></tr>
+  Uso do Linkedin e sou familiarizado com a plataforma
+</table>
 
 ## O que quero aprender sobre os assuntos que serão abordados nesse módulo?
 
