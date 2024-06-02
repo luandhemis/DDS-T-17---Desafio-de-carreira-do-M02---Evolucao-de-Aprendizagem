@@ -1,5 +1,4 @@
-# evolucao-de-aprendizagemm
-Repositório referente ao desafio de carreira do M02
+# DDS T-17 - Desafio de carreira do M02 - Evolução de Aprendizagem  👽
 
 ## Conteúdos a serem trabalhados nesse módulo:
 
