@@ -34,12 +34,10 @@ Havendo vários métodos/formas para diferentes objetivos.</td></tr>
 <tr><td>Métodos de Strings</td><td>Entendo que seja uma forma de manipular os dados em string, métodos/funções para manipular e gerenciar os dados em string</td></tr>
   
 </table>
-
+<br>
 <b>Conteúdo Carreira</b>
 <table>
-<tr><td>Currículo e carta de apresentação</td><td>
-  Sei como criar um currículo básico, com as informações essenciais dependendo da vaga, uma carta de apresentação não sei como criar uma e, confesso, que não vejo numa necessidade
-</td></tr>
+<tr><td>Currículo e carta de apresentação</td><td>Sei como criar um currículo básico, com as informações essenciais dependendo da vaga, uma carta de apresentação não sei como criar uma e, confesso, que não vejo numa necessidade</td></tr>
 <tr><td>Gestão de tempo</td><td></td></tr>
   Já utilizei de algumas técnicas: aplicativos de organização, técnica pomodoro e outras técnicas de gestão de tempo, mas nunca encontrei muita eficácia. 
 <tr><td>LinkedIn: primeiros passos</td><td></td></tr>
