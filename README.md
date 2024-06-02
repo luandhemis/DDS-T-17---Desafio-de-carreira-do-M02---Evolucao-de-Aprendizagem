@@ -36,7 +36,7 @@ Havendo vários métodos/formas para diferentes objetivos.</td></tr>
 </table>
 <br>
 <b>Conteúdo Carreira</b>
-<br>
+<br></br>
 <table>
 <tr><td>Currículo e carta de apresentação</td><td>Sei como criar um currículo básico, com as informações essenciais dependendo da vaga, uma carta de apresentação não sei como criar uma e, confesso, que não vejo numa necessidade</td></tr>
 <tr><td>Gestão de tempo</td><td>Já utilizei de algumas técnicas: aplicativos de organização, técnica pomodoro e outras técnicas de gestão de tempo, mas nunca encontrei muita eficácia.</td></tr> 
@@ -59,7 +59,7 @@ Havendo vários métodos/formas para diferentes objetivos.</td></tr>
 </table>
 <br>
 <b>Conteúdo Carreira</b>
-<br>
+<br></br>
 <table>
 <tr><td>Currículo e carta de apresentação</td><td>Aprender a melhorar meu currículo para a área de tecnologia e como fazer uma carta de apresentação</td></tr>
 <tr><td>Gestão de tempo</td><td>Aprender de uma forma eficaz a finalmente gerir meu tempo, ter acesso a insights e programas de organização</td></tr>
