@@ -36,12 +36,11 @@ Havendo vários métodos/formas para diferentes objetivos.</td></tr>
 </table>
 <br>
 <b>Conteúdo Carreira</b>
-
+<br>
 <table>
 <tr><td>Currículo e carta de apresentação</td><td>Sei como criar um currículo básico, com as informações essenciais dependendo da vaga, uma carta de apresentação não sei como criar uma e, confesso, que não vejo numa necessidade</td></tr>
-<tr><td>Gestão de tempo</td><td>Já utilizei de algumas técnicas: aplicativos de organização, técnica pomodoro e outras técnicas de gestão de tempo, mas nunca encontrei muita eficácia. 
-<tr><td>LinkedIn: primeiros passos</td><td> Utilizo do Linkedin e sou familiarizado com a plataforma</td></tr>
-</table>
+<tr><td>Gestão de tempo</td><td>Já utilizei de algumas técnicas: aplicativos de organização, técnica pomodoro e outras técnicas de gestão de tempo, mas nunca encontrei muita eficácia.</td></tr> 
+<tr><td>LinkedIn: primeiros passos</td><td> Utilizo do Linkedin e sou familiarizado com a plataforma</td></tr></table>
 
 ## O que quero aprender sobre os assuntos que serão abordados nesse módulo?
 
@@ -60,11 +59,11 @@ Havendo vários métodos/formas para diferentes objetivos.</td></tr>
 </table>
 <br>
 <b>Conteúdo Carreira</b>
-
+<br>
 <table>
 <tr><td>Currículo e carta de apresentação</td><td>Aprender a melhorar meu currículo para a área de tecnologia e como fazer uma carta de apresentação</td></tr>
 <tr><td>Gestão de tempo</td><td>Aprender de uma forma eficaz a finalmente gerir meu tempo, ter acesso a insights e programas de organização</td></tr>
-<tr><td>LinkedIn: primeiros passos</td><td></td>Aprender como realmente funciona o algoritmo do linkedin para ter mais alcance a pessoas e vagas, e aprender a como melhorar de forma sucinta meu currículo</tr>
+<tr><td>LinkedIn: primeiros passos</td><td>Aprender como realmente funciona o algoritmo do linkedin para ter mais alcance a pessoas e vagas, e aprender a como melhorar de forma sucinta meu currículo</td></tr>
 </table>
 
 
