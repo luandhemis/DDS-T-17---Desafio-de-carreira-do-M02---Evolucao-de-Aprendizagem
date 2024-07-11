@@ -47,7 +47,7 @@ Havendo vários métodos/formas para diferentes objetivos.</td></tr>
 <b>Conteúdo Técnico</b>
 
 <table>
-<tr><td>Funções</td><td>Quero ter mais facilidade utilizando funções, mais espertize, não possuindo dificuldade manipulando funções com array, com objetos, quero estar totalmente seguro sobre o assunto funções</td></tr>
+<tr><td>Funções</td><td>Quero ter mais facilidade utilizando funções, mais expertise, não possuindo dificuldade manipulando funções com array, com objetos, quero estar totalmente seguro sobre o assunto funções</td></tr>
 <tr><td>Tipos de Dados II</td><td>Entender e ter segurança com todos os tipos de dados</td></tr>
 <tr><td>Tipos Utilitários</td><td>Entender os tipos utilitários e no que se aplicam</td></tr>
 <tr><td>Métodos de Arrays</td><td>Aprender os métodos de array mais importantes e ter facilidade e segurança com o uso dos métodos </td></tr>
@@ -68,13 +68,23 @@ Havendo vários métodos/formas para diferentes objetivos.</td></tr>
 
 ## Minha evolução: o que aprendi sobre os assuntos que foram abordados nesse módulo?
 
-- Currículo e carta de apresentação
-- Métodos de Strings
-- Tipos Utilitários
-- Gestão de tempo
-- Tipos de Dados II
-- Funções
-- Métodos de Arrays III
-- LinkedIn: primeiros passos
-- Métodos de Arrays II
-- Métodos de Arrays
+<b>Conteúdo Técnico</b>
+
+<table>
+<tr><td>Funções</td><td>Ganhei mais expertise e facilidade na manipulação de funções, manipulando elas com array e objetos, assim como adquiri conhecimentos nas arrows functions</td></tr>
+<tr><td>Tipos de Dados II</td><td>Reforçei meus conhecimentos sobre tipagens no TypeScript e manipular os tipos, criar tipos e tipagem</td></tr>
+<tr><td>Tipos Utilitários</td><td>Aprendi os tipos utilitários, e suas utilidades na hora de manipular informações</td></tr>
+<tr><td>Métodos de Arrays</td><td>Aprendi os métodos de array mais importantes e adquiri facilidade e segurança com o uso dos métodos </td></tr>
+<tr><td>Métodos de Arrays II</td><td>Me aprofundei no assunto e aprendi os demais métodos de array mais importantes, adquiri facilidade e segurança com o uso dos métodos </td></tr>
+<tr><td>Métodos de Arrays III</td><td>Me aprofundei no assunto e aprendi os demais métodos de array mais importantes, adquiri facilidade e segurança com o uso dos métodos</td></tr>
+<tr><td>Métodos de Strings</td><td>Aprendi os métodos de string mais importantes e adquiri facilidade e segurança com o uso dos métodos de string</td></tr>
+  
+</table>
+<br>
+<b>Conteúdo Carreira</b>
+<br></br>
+<table>
+<tr><td>Currículo e carta de apresentação</td><td>Aprendi a melhorar meu currículo para a área de tecnologia e como fazer uma carta de apresentação, deixando ele mais apresentável e mais empregável</td></tr>
+<tr><td>Gestão de tempo</td><td>Aprendi de uma forma eficaz a finalmente gerir meu tempo, tive acesso a insights e programas de organização, hoje, uso o método pomodoro e outro organizadores que estão melhorando minha gestão de tempo</td></tr>
+<tr><td>LinkedIn: primeiros passos</td><td>Aprendi como realmente funciona o algoritmo do linkedin para ter mais alcance a pessoas e vagas, e aprendi a como melhorar de forma sucinta meu currículo</td></tr>
+</table>
