@@ -85,6 +85,6 @@ Havendo vários métodos/formas para diferentes objetivos.</td></tr>
 <br></br>
 <table>
 <tr><td>Currículo e carta de apresentação</td><td>Aprendi a melhorar meu currículo para a área de tecnologia e como fazer uma carta de apresentação, deixando ele mais apresentável e mais empregável</td></tr>
-<tr><td>Gestão de tempo</td><td>Aprendi de uma forma eficaz a finalmente gerir meu tempo, tive acesso a insights e programas de organização, hoje, uso o método pomodoro e outro organizadores que estão melhorando minha gestão de tempo</td></tr>
+<tr><td>Gestão de tempo</td><td>Aprendi de uma forma eficaz a finalmente gerir meu tempo, tive acesso a insights e programas de organização, hoje, uso o método pomodoro e programas de organização que estão melhorando minha gestão de tempo</td></tr>
 <tr><td>LinkedIn: primeiros passos</td><td>Aprendi como realmente funciona o algoritmo do linkedin para ter mais alcance a pessoas e vagas, e aprendi a como melhorar de forma sucinta meu currículo</td></tr>
 </table>
