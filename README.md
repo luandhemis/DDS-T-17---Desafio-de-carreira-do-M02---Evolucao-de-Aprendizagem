@@ -1,4 +1,4 @@
-# DDS T-17 - Desafio de carreira do M02 - Evolução de Aprendizagem  👽
+# DDS T-17 - Desafio de carreira do M03 - Evolução de Aprendizagem  👽
 
 ## Conteúdos a serem trabalhados nesse módulo:
 
